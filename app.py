@@ -69,4 +69,3 @@ if __name__ == '__main__':
 
 
 
-    git config --global --unset user.name "shivakumarofficial"
